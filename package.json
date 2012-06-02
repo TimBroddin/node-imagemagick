@@ -1,7 +1,7 @@
 {
   "name": "imagemagick",
   "description": "A wrapper around the imagemagick cli",
-  "version": "https://github.com/TimBroddin/node-imagemagick",
+  "version": "0.1.2",
   "author": "Rasmus Andersson",
   "licenses": [{
     "type": "MIT"
