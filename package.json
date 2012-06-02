@@ -6,6 +6,10 @@
   "licenses": [{
     "type": "MIT"
   }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rsms/node-imagemagick.git"
+  },
   "engine": [ "node >=0.1.90" ],
   "main": "imagemagick"
 }
